@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... (update soon).
 - 📫 How to reach me by email: acuscodinghcm@gmail.com.
 
-- This is my main account for job and work. If you want to see my daily activities. you can go to my second account - 
+- This is my main account for job and work. If you want to see my daily activities. you can go to my second account - https://github.com/AcusPGP
 
 <!---
 phamgiaphuc/phamgiaphuc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
