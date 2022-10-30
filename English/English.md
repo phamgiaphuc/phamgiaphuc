@@ -23,7 +23,7 @@
 ------
 ### 1.Basic information
 
-- **Name: Phạm Gia Phúc**
+- **Name: Pham Gia Phuc**
 - **Born: 2004**
 - **Currently a student at International University - VNU ([International University](https://hcmiu.edu.vn/))**
 - **Major: Computer Science**
