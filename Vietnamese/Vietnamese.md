@@ -17,7 +17,7 @@
   </a>
 </div>
 
-<h4 align="center">Ngoài ra bạn có thể liên hệ với tôi thông qua Gmail: <a>acus1304pgphcm@gmail.com</a></h4>
+<h4 align="center">Ngoài ra bạn có thể liên hệ với mình thông qua Gmail: <a>acus1304pgphcm@gmail.com</a></h4>
 
 ------
 ### 1.Thông tin cơ bản:
