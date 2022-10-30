@@ -20,7 +20,7 @@
 <h4 align="center">Ngoài ra bạn có thể liên hệ với mình thông qua Gmail: <a>acus1304pgphcm@gmail.com</a></h4>
 
 ------
-### 1.Thông tin cơ bản:
+### 1.Thông tin cơ bản
 
 - **Tên: Phạm Gia Phúc**
 - **Sinh năm: 2004**
@@ -28,23 +28,23 @@
 - **Ngành: Khoa học máy tính**
 
 ------
-### 2. Ngôn ngữ và công cụ:
+### 2. Ngôn ngữ và công cụ
 
-[![My Skills](https://skills.thijs.gg/icons?i=java,python,html,css,github,docker,postgresql)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=java,python,html,css,github,docker,postgresql,maven)](https://skills.thijs.gg)
 
 ------
-### 3. Một số thông tin khác:
+### 3. Một số thông tin khác
 
 - Các chủ đề nghiên cứu mà mình hứng thú: [AI - Trí tuệ nhân tạo](), [Deep learning](), [Socket Programming]() and [Big Data]().
 - Sở thích thường ngày: viết code, giải LeetCode, đọc Stack Overflow, chơi cờ và đọc truyện ngôn tình.
 
 ------
-### 4. Kinh nghiệm làm việc:
+### 4. Kinh nghiệm làm việc
 
 - Chưa có kinh nghiệm làm việc, sẽ được cập nhật thông tin sau.
 
 ------
-### 5. Mong muốn của bản thân:
+### 5. Mong muốn của bản thân
 
 - Mình mong có thể làm việc với tất cả lập trình viên với đa dạng ngôn ngữ lập trình và các công cụ quản lí, hỗ trợ lập trình khác nhau. Ngoài ra, mình cũng
 muốn trau dồi thêm kĩ năng làm việc nhó, kĩ năng làm việc với data, khả năng lên kế hoạch cho dự án và giải quyết vấn đề.
