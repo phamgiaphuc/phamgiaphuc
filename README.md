@@ -10,3 +10,6 @@
 phamgiaphuc/phamgiaphuc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.****
 You can click the Preview link to take a look at your changes.
 --->
+
+[![Followers Badge](https://img.shields.io/github/followers/phamgiaphuc?style=for-the-badge&logo=github&color=blue&logoColor=black)](https://github.com/phamgiaphuc)
+[![Stars Badge](https://img.shields.io/github/stars/phamgiaphuc?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&logo=github&color=red&logoColor=black&style=for-the-badge)](https://github.com/phamgiaphuc)
