@@ -31,7 +31,7 @@
 ------
 ### 2. Language & Tools
 
-[![My Skills](https://skills.thijs.gg/icons?i=java,python,html,css,github,docker,postgresql,maven)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=java,python,html,css,github,docker,postgresql,maven)](https://en.wikipedia.org/wiki/Programming_language)
 
 ------
 ### 3. Strength
