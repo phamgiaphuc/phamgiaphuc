@@ -29,9 +29,9 @@
 - **Major: Computer Science**
 
 ------
-### 2. Language & Tools
+### 2. Languages & Tools
 
-[![My Skills](https://skills.thijs.gg/icons?i=java,python,html,css,github,docker,postgresql,maven)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=java,python,c,html,css,github,docker,postgresql,maven)](https://skills.thijs.gg)
 
 ------
 ### 3. Strength

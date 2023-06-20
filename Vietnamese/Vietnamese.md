@@ -32,7 +32,7 @@
 
 ### 2. Ngôn ngữ và công cụ
 
-[![My Skills](https://skills.thijs.gg/icons?i=java,python,html,css,github,docker,postgresql,maven)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=java,python,c,html,css,github,docker,postgresql,maven)](https://skills.thijs.gg)
 
 ------
 
