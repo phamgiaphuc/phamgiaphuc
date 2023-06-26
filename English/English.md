@@ -7,7 +7,7 @@
 
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/gia-phuc-pham-773bb0247/">
+  <a href="https://www.linkedin.com/in/pham-gia-phuc-384913268/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.facebook.com/giaphuc.pham.98478/">
@@ -50,7 +50,9 @@
 ------
 ### 5. Working experience
 
-- No working experience, I will update information later.
+| Companies | Roles | Skills | Times |
+|-----------|-------|--------|-------|
+|Google Developer Student Clubs - HCMIU | Developer | JavaScript, NodeJS, MongoDB | 2023 |
 
 ------
 ### 6. My own wishes

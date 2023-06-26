@@ -56,8 +56,9 @@
 
 ### 5. Kinh nghiệm làm việc
 
-- Chưa có kinh nghiệm làm việc, sẽ được cập nhật thông tin sau.
-
+| Công ty | Vị trí | Kĩ năng | Thời gian |
+|-----------|-------|--------|-------|
+|Google Developer Student Clubs - HCMIU | Developer | JavaScript, NodeJS, MongoDB | 2023 |
 ------
 
 ### 6. Mong muốn của bản thân
