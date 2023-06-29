@@ -15,13 +15,13 @@ You can click the Preview link to take a look at your changes.
   <a style="margin: 3px" href="https://www.linkedin.com/in/pham-gia-phuc-384913268/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a style="margin: 3px" href="https://www.facebook.com/giaphuc.pham.98478/">
+  <a style="margin: 5px" href="https://www.facebook.com/giaphuc.pham.98478/">
     <img src="https://img.shields.io/badge/Facebook-white?style=for-the-badge&logo=youtube&logoColor=blue"/>
   </a>
-  <a style="margin: 3px" href="https://github.com/phamgiaphuc">
+  <a style="margin: 5px" href="https://github.com/phamgiaphuc">
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white"/>
   </a>
-  <a style="margin: 3px" href="mailto:acuscodinghcm@gmail.com">
+  <a style="margin: 5px" href="mailto:acuscodinghcm@gmail.com">
     <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=ec4135"/>
   </a>
 </div>
