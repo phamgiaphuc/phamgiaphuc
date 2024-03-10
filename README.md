@@ -4,11 +4,11 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## 👤 About me
-- 👋 Hi, I’m Pham Gia Phuc. You can call me - Acus.
-- 👀 I’m interested in coding (want to be a software developer and a data scientist).
-- 🌱 My languages are Java and JavaScript.
-- 💞️ I’m looking to collaborate on ... (update soon).
-
+- 👋 Hi there! My name is Pham Gia Phuc. I am currently a student at Faculty of Information Technology, International University - Vietnam National University, Ho Chi Minh City. My major is Computer Science. 
+- 👀 Highly motivated and ambitious individual seeking an internship opportunity to enhance skills in software industries.
+- 🤗 Proactive, flexible and professional attitude.
+- 🌱 My main programming languages are Java and JavaScript.
+- 📄 My curriculumn vitae: https://drive.google.com/file/d/1SXWL97QndYtkvwWroLQZgozwgjj3NqED/view?usp=sharing
 ## 📫 How to reach me
 
 <div id="badges" align="center" style="margin: 3px">
@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
   </a>
 </div>
 
-> This is my main account for job and work. If you want to see my daily activities, you can go to my second account - [AcusPGP](https://github.com/AcusPGP). Or you want have my (curriculumn vitae), click here [English](English/English.md) or [Vietnamese](Vietnamese/Vietnamese.md).
+> This is my main account for job and work. If you want to see my daily activities, you can go to my second account - [AcusPGP](https://github.com/AcusPGP).
 
 ## 🌱 Languages & Tools
 
