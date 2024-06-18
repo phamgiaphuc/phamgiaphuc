@@ -52,6 +52,7 @@ You can click the Preview link to take a look at your changes.
 ![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=fff&style=flat)
 ![Render Badge](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=000&style=flat)
 ![Vercel Badge](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=flat)
+![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=flat)
 
 ## 🔥 My stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phamgiaphuc&layout=compact&theme=dark)
