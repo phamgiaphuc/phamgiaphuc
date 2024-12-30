@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 - 👀 Highly motivated and ambitious individual seeking an internship opportunity to enhance skills in software industries.
 - 🤗 Proactive, flexible and professional attitude.
 - 🌱 My main programming languages are Java and JavaScript.
-- 📄 My curriculumn vitae: [Click here](https://phamgiaphuc.github.io/assets/resume.pdf)
+- 📄 My curriculumn vitae: [Click here]([https://phamgiaphuc.github.io/assets/resume.pdf](https://acus-website.vercel.app/docs/cv.pdf))
 ## 📫 How to reach me
 
 <div id="badges" align="center" style="margin: 3px">
