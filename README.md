@@ -7,8 +7,8 @@ You can click the Preview link to take a look at your changes.
 - 👋 Hi there! My name is Pham Gia Phuc. I am currently a student at Faculty of Information Technology, International University - Vietnam National University, Ho Chi Minh City. My major is Computer Science. 
 - 👀 Highly motivated and ambitious individual seeking an internship opportunity to enhance skills in software industries.
 - 🤗 Proactive, flexible and professional attitude.
-- 🌱 My main programming languages are Java and JavaScript.
 - 📄 My curriculumn vitae: [Click here](https://acus-website.vercel.app/docs/cv.pdf)
+
 ## 📫 How to reach me
 
 <div id="badges" align="center" style="margin: 3px">
@@ -25,8 +25,6 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=ec4135"/>
   </a>
 </div>
-
-> This is my main account for job and work. If you want to see my daily activities, you can go to my second account - [AcusPGP](https://github.com/AcusPGP).
 
 ## 🌱 Languages & Tools
 
@@ -55,9 +53,6 @@ You can click the Preview link to take a look at your changes.
 ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=flat)
 
 ## 🔥 My stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phamgiaphuc&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phamgiaphuc)
 
-![Phuc's GitHub stats](https://github-readme-stats.vercel.app/api?username=phamgiaphuc&show_icons=true&theme=dark)
-
-[![Followers Badge](https://img.shields.io/github/followers/phamgiaphuc?style=for-the-badge&logo=github&color=blue&logoColor=black)](https://github.com/phamgiaphuc)
-[![Stars Badge](https://img.shields.io/github/stars/phamgiaphuc?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&logo=github&color=red&logoColor=black&style=for-the-badge)](https://github.com/phamgiaphuc)
+![Phuc's GitHub stats](https://github-readme-stats.vercel.app/api?username=phamgiaphuc&show_icons=true)
